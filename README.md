@@ -1,5 +1,5 @@
-Jetty Jersey Container
-======================
+[Guestful OSS](/) - Jetty Jersey Container
+==========================================
 
 [Jetty](http://www.eclipse.org/jetty/) implementation for [Guestful container api](/module.jersey-container).
 
